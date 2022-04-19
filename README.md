@@ -18,8 +18,9 @@ Q1.
 Q2.
     Included in one shell script file named Q2.sh
     (quotes.txt file had some lines of the form "quote"~ "author",
-    and some lines were of the form "quote" ~ "author", hence the 
-    output shows an extra space after the full stop in speech.txt)
+    and some lines were of the form "quote" ~ "author", therfore the 
+    output shows an extra space after the full stop in speech.txt, 
+    due to different type of input available.)
 
     Commands:
         chmod +x ./q2.sh
